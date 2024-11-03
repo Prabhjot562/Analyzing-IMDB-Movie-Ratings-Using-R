@@ -1,0 +1,28 @@
+{
+    "id": "1C0942E1",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1730647250191.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "id": "26b0ea3ca2d640899db1fcba23b7eef4",
+        "name": "year_analysis_plot",
+        "title": "year_analysis_plot",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2154046940472,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1730647250191,
+    "read_only": false,
+    "read_only_alternatives": []
+}

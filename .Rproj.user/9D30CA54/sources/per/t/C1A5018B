@@ -1,0 +1,28 @@
+{
+    "id": "C1A5018B",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1730647393907.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "id": "b84058fe6f03466f983838dda132ef63",
+        "name": "stats",
+        "title": "stats",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2154046940472,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1730647393907,
+    "read_only": false,
+    "read_only_alternatives": []
+}
